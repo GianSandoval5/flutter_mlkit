@@ -32,12 +32,15 @@ For help getting started with Flutter development, view the [online documentatio
    git clone https://github.com/tu_usuario/flutter_ml_kit.git
 
 2. Navega al directorio del proyecto:
+   ```bash
    cd flutter_ml_kit
 
 3. Instala dependencias
+   ```bash
     flutter pub get
 
 4. Ejecuta la aplicación en un dispositivo físico o emulador:
+   ```bash
     flutter run
 
 
