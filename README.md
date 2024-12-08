@@ -1,9 +1,9 @@
 # flutter_ml_kit  
 A new Flutter project.
 
-![Portada del Proyecto](assets/ml_kit_cover.png)
+<img src="assets/ml_kit_cover.png" alt="Portada del Proyecto" width="400"/>
 
-![QR DE LA COMUNIDAD FLUTTER PIURA](assets/comunidad.png)
+<img src="assets/comunidad.png" alt="QR DE LA COMUNIDAD FLUTTER PIURA" width="400"/>
 
 ## Getting Started  
 This project is a starting point for a Flutter application.
