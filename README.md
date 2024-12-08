@@ -1,8 +1,18 @@
 # flutter_ml_kit  
-A new Flutter project.
 
+## Funcionalidades Principales  
+- **Reconocimiento de Tinta Digital:** Convierte manuscritos en texto digital.  
+- **Identificación de Idioma:** Detecta automáticamente el idioma de un texto.  
+- **Traducción de Texto:** Traduce contenido en tiempo real a múltiples idiomas.  
+- **Escáner de Documentos y Texto:** Procesa imágenes para extraer información textual.  
+- **Lectura de Códigos de Barras:** Escanea y decodifica diferentes tipos de códigos.  
+- **Etiquetado de Imágenes:** Categoriza automáticamente imágenes con etiquetas descriptivas.  
+- **Detección de Rostros:** Identifica y analiza rostros en imágenes y videos. 
+
+## Portada del Proyecto  
 <img src="assets/ml_kit_cover.png" alt="Portada del Proyecto" width="400"/>
 
+## QR DE LA COMUNIDAD FLUTTER PIURA  
 <img src="assets/comunidad.png" alt="QR DE LA COMUNIDAD FLUTTER PIURA" width="400"/>
 
 ## Getting Started  
@@ -14,16 +24,7 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
----
-
-## Funcionalidades Principales  
-- **Reconocimiento de Tinta Digital:** Convierte manuscritos en texto digital.  
-- **Identificación de Idioma:** Detecta automáticamente el idioma de un texto.  
-- **Traducción de Texto:** Traduce contenido en tiempo real a múltiples idiomas.  
-- **Escáner de Documentos y Texto:** Procesa imágenes para extraer información textual.  
-- **Lectura de Códigos de Barras:** Escanea y decodifica diferentes tipos de códigos.  
-- **Etiquetado de Imágenes:** Categoriza automáticamente imágenes con etiquetas descriptivas.  
-- **Detección de Rostros:** Identifica y analiza rostros en imágenes y videos.  
+--- 
 
 ## Instalación  
 1. Clona el repositorio:  
